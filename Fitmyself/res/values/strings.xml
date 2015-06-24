@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Fitmyselft</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_add_story">AddStoryActivity</string>
+    
+    <string name="add_story">one more</string>
+    <string name="add">add</string>
+    
+    <string name="getup_time">Get up time</string>
+    <string name="run">Run</string>
+    <string name="push_up">Push up</string>
+    <string name="swim">Swim</string>
+
+</resources>
